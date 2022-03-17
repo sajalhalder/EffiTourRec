@@ -3,7 +3,7 @@ Abstract: Abstract. Personalized itinerary recommendation has garnered wide rese
 
 
 ## mainEffiTourRec is the main runable file and ModelFiles contains necessary functions. 
-
+   
 
 If we use these codes, have to cite the following paper:
 
